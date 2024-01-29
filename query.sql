@@ -1,3 +1,3 @@
 SELECT * FROM users
 WHERE id = 1
-ORDER BY name
+ORDER BY city
